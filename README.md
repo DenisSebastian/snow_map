@@ -1,14 +1,10 @@
 ---
-title: "Mapa de Cólera"
+title: "Mapas en Tiempos de Cólera"
 subtitle: "El Mapa que cambio el Mundo"
-editor_options: 
-  chunk_output_type: console
 ---
 
 
-![John Snow (1813-1858), considerado como el padre de la epidemiología moderna [@Cerda_L_2007]](images/john_snow.jpg){fig-aling="center" width="250"}
-
-
+<img src="images/john_snow.jpg" alt="John Snow (1813-1858), considerado como el padre de la epidemiología moderna" width="250"/>
 
 ## Historia
 
@@ -26,7 +22,7 @@ A principios de septiembre de 1854, un pequeño sector de Londres llamado Golden
 
 John Snow venía utilizando desde hacía tiempo mapas en sus artículos y exposiciones como ayuda a la hora de argumentar sus hipótesis, por lo que aprovechó para comprar un mapa del barrio y, ayudado del párroco local Henry Whitehead, ir anotando en él las muertes que se habían producido por cólera en el mes de septiembre. Para ello recurrió al trabajo de campo, visitando uno por uno los edificios del área afectada, y ayudándose de los registros del hospital de Middlesex, a donde se trasladaban muchas de las víctimas.
 
-![Mapa en el cual Jonh Snow fue registrando las muertes por cólera en Septiembre de 1984](images/snow-map-annotated.png){fig-aling="center"}
+![Mapa en el cual Jonh Snow fue registrando las muertes por cólera en Septiembre de 1984](images/snow-map-annotated.png)
 
 El mapa recogía las defunciones con unas finas líneas de color negro que se iban apilando unas sobre las otras a medida que el número de decesos aumentaba. Con esta simple representación el mapa de John Snow trasmitía un claro mensaje visual al conectar incidencia con concentración. El resultado fue clarificador: la mayor parte de las muertes se habían producido en las proximidades de Broad Street. De igual manera Snow georreferenció sobre el mapa los pozos de agua, viéndose claramente como una gran cantidad de víctimas se concentraban en torno a la bomba de agua de Broad Street [@Cerda_L_2007].
 
@@ -38,7 +34,7 @@ En su planteamiento, no hacía sentido la ausencia de muertes entre los trabajad
 
 ## Conclusiones
 
-![Réplica de la bomba de agua situada muy cerca de la ubicación original, en Broadwick Street (la moderna Broad Street). Fue erigida en 1992 en memoria de John Snow](images/John_Snow_memorial_and_pub.jpg){fig-aling="center" width="250"}
+![Réplica de la bomba de agua situada muy cerca de la ubicación original, en Broadwick Street (la moderna Broad Street). Fue erigida en 1992 en memoria de John Snow](images/John_Snow_memorial_and_pub.jpg)
 
 Tras la inhabilitación de la polémica bomba, se observó una reducción en la incidencia y mortalidad por cólera, sin embargo, esto no fue suficiente para controlar el brote epidémico. Lamentablemente, la incredulidad de las autoridades sanitarias -quienes apoyaban la teoría miasmática- y la presión popular fue más fuerte, habilitándose nuevamente su uso. Snow intentó hasta su muerte en 1858 convencer a la comunidad médica que el cólera se transmitía mediante la ingestión de una "materia mórbida" presente en las aguas contaminadas del río Támesis, pero sus esfuerzos fueron infructuosos. Su teoría debió esperar la cuarta epidemia de cólera de Londres, ocurrida en 1866, para ser finalmente aceptada. Al poco tiempo, experimentos realizados por Louis Pasteur demostraron que son microorganismos presentes en el ambiente (y no "miasmas") los causantes de las enfermedades transmisibles. Casi tres décadas después de la muerte de Snow, Robert Koch aisló y cultivó el Vibrio cholerae, la "materia mórbida" a la cual recurrentemente se refería Snow, dándole total crédito a su hipótesis[@Cerda_L_2007].
 
